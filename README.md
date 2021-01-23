@@ -1,5 +1,5 @@
 # Ironman-Helmet
-#It would display an helmet of ironman using a simple python code which involves turtle hraphics
+#It would display an helmet of ironman using a simple python code which involves turtle Graphics
 import turtle
 # Top Part
 piece1=[[(-40, 120), (-70, 260), (-130, 230), (-170, 200), (-170, 100), (-160, 40), (-170, 10), (-150, -10), (-140, 10), (-40, -20), (0, -20)],[(0, -20), (40, -20), (140, 10), (150, -10), (170, 10), (160, 40), (170, 100), (170, 200), (130, 230), (70, 260), (40, 120), (0, 120)]]
